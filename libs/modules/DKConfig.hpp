@@ -143,6 +143,6 @@ public:
     
     float * getWiresTension()
     {
-        
+        return nullptr; // tmp compilation fix
     }  
 };

@@ -1,5 +1,5 @@
 /*
- Copyright (C) 2018 Luis Fernando García Pérez [http://luiscript.com]
+ Copyright (C) 2018 Luis Fernando Garc√≠ P√©rez [http://luiscript.com]
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -145,4 +145,5 @@ ofColor DKWireConnection::getWireConnectionColor()
 	if (connectionType == DKConnectionType::DK_SLIDER) return ofColor(255, 255, 255);
 	if (connectionType == DKConnectionType::DK_LIGHT) return ofColor(0, 180, 180);
     if (connectionType == DKConnectionType::DK_CHAIN) return ofColor(226, 88, 33);
+    return ofColor(255, 0, 0); // red for error
 }

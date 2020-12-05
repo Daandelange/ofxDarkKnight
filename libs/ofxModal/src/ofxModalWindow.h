@@ -23,7 +23,7 @@
 #pragma once
 #include "ofAppRunner.h"
 #include "ofxDatGui.h"
-#include "ofxParagraph/src/ofxParagraph.h"
+#include "ofxParagraph.h" // Compile fix
 #include "ofxModalEvent.h"
 #include "ofxModalTheme.h"
 

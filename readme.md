@@ -30,7 +30,7 @@ Download and install [ofxDarkKnight](https://github.com/luiscript/ofxDarkKnight/
 
 [Danomatica: ](https://github.com/danomatika)[ofxMidi](https://github.com/danomatika/ofxMidi)
 
-[2bbb: ](https://github.com/2bbb/ofxAbletonLink)[ofxAbletonLink](https://github.com/2bbb/ofxAbletonLink)
+[2bbb: ](https://github.com/2bbb/ofxAbletonLink)[ofxAbletonLink](https://github.com/2bbb/ofxAbletonLink) (checkout it's submodules too)
 
 [astellato: ](https://github.com/astellato)[ofxSyphon](https://github.com/astellato/ofxSyphon) (Only for MacOS)
 
@@ -45,6 +45,10 @@ Download and install [ofxDarkKnight](https://github.com/luiscript/ofxDarkKnight/
 [vanderlin: ](https://github.com/vanderlin/)[ofxFboRecorder](https://github.com/vanderlin/ofxFboRecorder)
 
 [Kj1: ](https://github.com/Kj1/)[ofxSpout2](https://github.com/Kj1/ofxSpout2) (only for Windows)
+
+[Danomatica: ](https://github.com/danomatika/ofxLua)[ofxLua](https://github.com/luiscript/ofxLua) (Fork)
+
+[d3cod3: ](https://github.com/d3cod3/)[ofxThreadedFileDialog](https://github.com/d3cod3/ofxThreadedFileDialog)
 
 ofxOsc (included in openframeworks)
 

@@ -50,6 +50,11 @@ ofxOsc (included in openframeworks)
 
 \*\*To properly use the DarkKnightVideoRecorder module you will need to have ffmpeg and Hap codec installed in your computer, otherwise you won't be able to export your video. If you don't want to install them just don't try to export your sequence, the recording process should work"
 
+For an easy installation procedure, you can use ofxAddonTool by running the following commands in your terminal :
+- Go to the embedded ofxAddonTool folder : `cd ofxDarkKnight/scripts/ofxAddonTool`
+- Check your addons folder status : `./ofxAddonTool --check`
+- Install the missing addons : `./ofxAddonTool --install`
+
 # Running the examples
 
 1. Open the example [basic](https://github.com/luiscript/ofxDarkKnight/tree/master/examples/basic) project under your `openframeworks/addons/ofxDarkKnight/example` directory.

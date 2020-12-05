@@ -1,0 +1,28 @@
+# This file holds all repo information for ofxAddonTool to match your configuration
+# To comment out some addons, you may use a # in front of the line.
+ 
+# Regex to (manually) import/transcode from addons.make
+# Search  : git clone( --branch=([\S]+))? ([0-9a-zA-Z\-\.\/\:]+)\/(.+)
+# Replace : $4		$3/$4				$2
+
+# You'll find an example setup below, fit this to your needs !
+# Each line holds 3 variables separated by tabs : Title, Url, Branch
+
+#ofxOsc (included in oF)
+#ofxDarkKnight
+ofxMidi					https://github.com/danomatika/ofxMidi
+ofxAbletonLink			https://github.com/2bbb/ofxAbletonLink					master
+ofxSyphon				https://github.com/astellato/ofxSyphon					master
+ofxMeshWarp				https://github.com/luiscript/ofxMeshWarp				master
+ofxHapPlayer			https://github.com/luiscript/ofxHapPlayer				libavformat
+ofxPostProcessing		https://github.com/luiscript/ofxPostProcessing			master
+ofxAutoReloadedShader	https://github.com/andreasmuller/ofxAutoReloadedShader	master
+ofxLua					https://github.com/luiscript/ofxLua						master
+ofxFboRecorder			https://github.com/vanderlin/ofxFboRecorder				master
+ofxThreadedFileDialog	https://github.com/d3cod3/ofxThreadedFileDialog			master
+ofxParagraph			https://github.com/braitsch/ofxParagraph				master
+# UNCOMMENT FOR WINDOWS BELOW
+#ofxSpout2				https://github.com/Kj1/ofxSpout2						master
+#ofxHapPlayer			https://github.com/luiscript/ofxHapPlayer				master
+#ofxLua					https://github.com/luiscript/ofxLua						windows
+# always keep a commented line at the end !

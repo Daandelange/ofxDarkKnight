@@ -25,3 +25,6 @@
 [submodule "libs/DKVideoRecorder"]
 	path = libs/DKVideoRecorder
 	url = https://github.com/luiscript/DKVideoRecorder
+[submodule "scripts/ofxAddonTool"]
+	path = scripts/ofxAddonTool
+	url = https://github.com/Daandelange/ofxAddonTool.git
